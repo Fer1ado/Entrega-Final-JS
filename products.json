@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "nombre": "posa macetas decorativo",
+        "importe": 600.99,
+        "stock": 35,
+        "descripcion": "estas bases de maceta únicas son especiales para tu jardín",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item1-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "nombre": "platos playos",
+        "importe": 900.99,
+        "stock": 35,
+        "descripcion": "Este juego de platos es el ideal para destacar tus comidas",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item10-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "nombre": "Platos de Postre",
+        "importe": 1300.99,
+        "stock": 35,
+        "descripcion": "Nuestros platos de postre son pequeños y versátiles",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item11-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "nombre": "Plato de Gres",
+        "importe": 900.99,
+        "stock": 35,
+        "descripcion": "Los platos de Gres son especiales por su dureza y esmaltado distintivo",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item12-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "nombre": "Plato de Gres",
+        "importe": 1800.99,
+        "stock": 35,
+        "descripcion": "Los platos de Gres son especiales por su dureza y esmaltado distintivo",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item13-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "nombre": "Tazas de te chino",
+        "importe": 500.99,
+        "stock": 24,
+        "descripcion": "Las tasas de te chinas tienen un trabajo especial de esmalte para bebidas calientes",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item2-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "nombre": "Cuencos de Terracota",
+        "importe": 700.99,
+        "stock": 35,
+        "descripcion": "Los cuencos de la tierra son los indicados para organizar tus cosas",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item4-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "nombre": "Cuencos de Rio",
+        "importe": 800.99,
+        "stock": 46,
+        "descripcion": "Los cuencos del rio estan especialmente preparados para líquidos fermentados",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item5-min.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "nombre": "Juego de mesa",
+        "importe": 1500.99,
+        "stock": 16,
+        "descripcion": "los juegos de terracota vienen genial para el uso diario en la casa",
+        "image": {
+          "fields": {
+            "file": { "url": "../assets/fotos_catalogo/item9-min.jpg" }
+          }
+        }
+      }
+    }
+  ]
+}
